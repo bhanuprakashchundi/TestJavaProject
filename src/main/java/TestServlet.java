@@ -34,7 +34,7 @@ public class TestServlet extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		System.out.println("TestingServlet doPost method. .  .");
+		System.out.println("TestingServlet doPost method. .      .");
 		doGet(request, response);
 	}
 
